@@ -12,6 +12,7 @@ body {
 }
 
 .card {
+    transform:scale(1.5);
     position: relative;
     min-width: 220px;
     height: 300px;
