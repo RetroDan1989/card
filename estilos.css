@@ -15,7 +15,7 @@ body {
     transform:scale(1.5);
     position: relative;
     min-width: 220px;
-    height: 300px;
+    height: 320px;
     background-image: linear-gradient(#fff95b 30%,#ff930f);
     box-shadow: 1px 1px 3px 0.5px;
     border-radius: 10px;
